@@ -6,7 +6,7 @@ The web server runs Apache and is accessible via a public IP address.
 
 
 ## Architecture
-![Architecture Diagram](Architecture.png)
+![Architecture Diagram](architecture/Architecture.png)
 
 
 ## AWS Services Used
