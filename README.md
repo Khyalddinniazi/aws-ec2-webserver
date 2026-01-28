@@ -4,8 +4,10 @@
 This project demonstrates deploying a public web server on AWS using Amazon EC2 inside a custom VPC.
 The web server runs Apache and is accessible via a public IP address.
 
+
 ## Architecture
-See the architecture folder for the deployment diagram.
+![Architecture Diagram](Architecture.png)
+
 
 ## AWS Services Used
 - Amazon EC2
